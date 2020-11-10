@@ -5,4 +5,4 @@
 - CallbackQueryHandler
 - MessageHandler
 
-&nbsp;&nbsp;[Access the Tutorial](https://gabiusp.github.io/telegram-functions-tutorial/)
+&nbsp;&nbsp;&nbsp;&nbsp;[Access the Tutorial](https://gabiusp.github.io/telegram-functions-tutorial/)
