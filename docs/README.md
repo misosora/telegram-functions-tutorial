@@ -3,33 +3,6 @@
 
 <br/>
 
-## &nbsp;&nbsp;**0. My Motivations**
-
-&nbsp;&nbsp;&nbsp;&nbsp;When I started programming by the end of 2019, I knew my main goal was to help people with my work. Even though it was always in the back of my mind when I got into university, I hadn't thought of a project that could have the impact I strived for, or even something that I was capable of doing with my limited skills. That is, until October 2020.
-
-&nbsp;&nbsp;&nbsp;&nbsp;Until that month, I had been feeling as if I were completely lost. I had forgotten what my true motivations were, and I couldn't put into words the desolate feeling of not being able to help in any way, even more so because of the chaotic state the whole world was (and currently _is_) in. But I kept trying to learn new things and not lose hope that someday I'd be good enough to do something to help.
-
-&nbsp;&nbsp;&nbsp;&nbsp;The perfect opportunity arose when I learned about an online hackathon for women called **SheHacksBr**. It was organized by *USPCodeLab*, an extension group from my university (*University of São Paulo*), and I caught wind of it through the president of one of their headquarters (*USPCodelab Sanca*), Carolina Arenas. Their theme was: "Inovative ways of improving people's quality of life". I instantly got excited and talked to my female friends from university, setting up a team of four: Me (of course), Milena Corrêa, Ana Vitória Freitas and Luísa Balleroni.
-
-&nbsp;&nbsp;&nbsp;&nbsp;We brainstormed some ideas and came up with a, pardon my lack of modesty, really really cool project! It's an open source Telegram bot that mimics a restaurant, using hidden menus and commands to help women in danger and abusive situations in general. The goal is to look as real as possible as to not alarm the abusers that might be nearby or even watching the conversation take place. I'll link our GitHub accounts and the project's code below, where you can find a more detailed explanation of our work (I'll try to translate it as soon as possible!).
-
-- [**Gabriela (me)**](https://github.com/gabiusp)
-- [**Milena**](https://github.com/milenacsilva)
-- [**Ana**](https://github.com/anavitoriafreitasusp)
-- [**Luísa**](https://github.com/luisashimabucoro)
-
-&nbsp;&nbsp;&nbsp;&nbsp;[**Project Repository**](https://github.com/milenacsilva/shehacks-2020)
-
- &nbsp;&nbsp;&nbsp;&nbsp;Going into that competition, I knew I'd have to read a ton of documentation, which is something I actually really enjoy, *but* only when the documentation is well-explained. Don't get me wrong, I'm not saying the Telegram API is badly documented, but it's not that great either. It's confusing and often really hard to understand what exactly everything does, specially if you're dealing with more "robust" functions. In an effort to bridge that gap even a little bit, I decided to try to explain some cool things you can do to make your bot look more refined and user-friendly :)
-
-&nbsp;&nbsp;&nbsp;&nbsp;Also, one of my main inspirations for writing this tutorial comes from **Gabriel Kanegae**'s own guide:
-
-&nbsp;&nbsp;&nbsp;&nbsp;[**"Creating a Telegram Bot with Python"**](https://www.gabekanegae.com/creating-a-telegram-bot-with-python/) 
-
-&nbsp;&nbsp;&nbsp;&nbsp;He's one of my seniors and a big inspiration for me as a professional, as well as a person! I highly recommend reading and following his guide, as I will be explaining some functions assuming you already have a simple bot running on Telegram. Without further ado, let's get into it!
-
-<br/>
-
 ## &nbsp;&nbsp;**1. Importing the Functions**
 
 &nbsp;&nbsp;&nbsp;&nbsp;Starting with the basics, you want to make sure you import the functions we'll be using from now on. The beginning of your main file should look like this:
