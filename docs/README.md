@@ -1,5 +1,5 @@
 # _**A Little Tutorial on Some Useful Functions from the Telegram API**_
-##### **by Gabriela Satie**
+##### **by Sora Satie**
 
 <br/>
 
